@@ -7,3 +7,7 @@ Built with Python
 ## Resources
 
 - Installing Pip (Python package manager): https://code.visualstudio.com/docs/python/python-tutorial#_install-a-python-interpreter, https://stackoverflow.com/questions/60309393/how-to-install-requests-in-python-3-7-on-mac
+
+- Pandas: https://pandas.pydata.org/docs/getting_started/index.html
+
+- Adding key value pair to dictionary: https://www.geeksforgeeks.org/add-a-keyvalue-pair-to-dictionary-in-python/
