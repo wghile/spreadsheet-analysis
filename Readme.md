@@ -1,6 +1,6 @@
 ## About
 
-Simple spreadsheet analysis project that was a deliverable for Code First Girls Introduction to Python course.
+Simple spreadsheet analysis of CSV data that was a deliverable for Code First Girls Introduction to Python course.
 
 Built with Python
 
