@@ -2,6 +2,7 @@
 
 # 1. Read the data from the spreadsheet
 import csv
+print('\n\nSales Data')
 field_names = ['year', 'month', 'sales', 'expenditure']
 with open('Project/sales.csv', 'r') as csv_file:
     spreadsheet = csv.DictReader(csv_file)
@@ -19,12 +20,11 @@ with open('Project/sales.csv', 'r') as csv_file:
 # 3. Output the total sales across all months
 months = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec']
 months_dict = []
-# months_dict = [{'month': 'jan', 'total_sales': 0}, {'month': 'feb', 'total_sales': 0}, {'month': 'mar', 'total_sales': 0}, {'month': 'apr', 'total_sales': 0}, {'month': 'may', 'total_sales': 0}, {'month': 'jun', 'total_sales': 0}, {'month': 'jul', 'total_sales': 0}, {'month': 'aug', 'total_sales': 0}, {'month': 'sep', 'total_sales': 0}, {'month': 'oct', 'total_sales': 0}, {'month': 'nov', 'total_sales': 0}, {'month': 'dec', 'total_sales': 0}]
 for i in range(0, len(months)):
     months_dict.append(dict(month = months[i]))   # Challenge: syntax
     months_dict[i]['total_sales'] = 0       # Challenge: using == instead of =
     months_dict[i]['total_expenditure'] = 0
-print('\n\nSummary of Total Sales per Month in 2018')
+print('\nSummary of Total Sales per Month in 2018')
 print('----------------------------------------')
 with open('Project/sales.csv', 'r') as csv_file:    # Displays list of each month's total sales
     spreadsheet = csv.DictReader(csv_file)
@@ -44,7 +44,7 @@ with open('Project/sales.csv', 'r') as csv_file:    # Displays list of each mont
             net_zero.append(item)
         else:
             net_income.append(item)
-    print('\n\nMonths with Net Loss')
+    print('\nMonths with Net Loss')
     print('--------------------')
     for item in net_loss:
         print(item['month'].capitalize())
@@ -57,7 +57,7 @@ with open('Project/sales.csv', 'r') as csv_file:    # Displays list of each mont
 # Different Data Source (IMDb Movies)
 import pandas as pd     #  import pandas Python Data Analysis Library
 
-print('\n\nIMDb Movies')
+print('\n\n\nIMDb Movies Data')
 movies = pd.read_csv('Project/IMDbMovies-Clean.csv')
 # print(movies.columns)    # Number of Columns of Original Data = 15
 df = pd.DataFrame(data=movies, columns=['Title', 'Director', 'Main Genres', 'Motion Picture Rating', 'Rating (Out of 10)', 'Release Year']).dropna()
@@ -78,7 +78,7 @@ else:
     with open('Project/filtered-movies.csv', 'r') as csv_file:
         spreadsheet = csv.DictReader(csv_file, fieldnames=['Index', 'Title', 'Director', 'Main Genres', 'Motion Picture Rating', 'Rating (Out of 10)', 'Release Year'])
         for row in spreadsheet:
-            if row['Main Genres'].__contains__(genre):
+            if row['Main Genres'].__contains__(genre):     # str
                 list.append(row)
         for item in list:
             print(f'\n {list.index(item) + 1}) {item['Title']} by Director(s) {item['Director']}')
