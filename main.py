@@ -73,9 +73,9 @@ movie_recommendations = df[(df['Rating (Out of 10)'] >= rating) & (df['Release Y
 if len(movie_recommendations) == 0: 
     print('No Movies Found that Match Search Criteria')
 else:
-    movie_recommendations.to_csv('Project/recommendations.csv')
+    movie_recommendations.to_csv('Project/filtered-movies.csv')
     list = []
-    with open('Project/recommendations.csv', 'r') as csv_file:
+    with open('Project/filtered-movies.csv', 'r') as csv_file:
         spreadsheet = csv.DictReader(csv_file, fieldnames=['Index', 'Title', 'Director', 'Main Genres', 'Motion Picture Rating', 'Rating (Out of 10)', 'Release Year'])
         for row in spreadsheet:
             if row['Main Genres'].__contains__(genre):
