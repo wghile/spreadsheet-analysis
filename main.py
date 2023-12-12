@@ -1,13 +1,13 @@
 # Required Tasks
 
-# 1. Read the data from the spreadsheet
+    # 1. Read the data from the spreadsheet
 import csv
 print('\n\nSales Data')
 field_names = ['year', 'month', 'sales', 'expenditure']
 with open('Project/sales.csv', 'r') as csv_file:
     spreadsheet = csv.DictReader(csv_file)
 
-# 2. Collect all of the sales from each month into a single list
+    # 2. Collect all of the sales from each month into a single list
 print('\nList of All Sales')
 print('-----------------')
 with open('Project/sales.csv', 'r') as csv_file:
@@ -17,10 +17,10 @@ with open('Project/sales.csv', 'r') as csv_file:
         list.append(row)
     print(list)
 
-# 3. Output the total sales across all months
+    # 3. Output the total sales across all months
 months = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec']
 months_dict = []
-for i in range(0, len(months)):
+for i in range(0, len(months)):     # Creating list of dictionaries for each month
     months_dict.append(dict(month = months[i]))   # Challenge: syntax
     months_dict[i]['total_sales'] = 0       # Challenge: using == instead of =
     months_dict[i]['total_expenditure'] = 0
@@ -62,7 +62,7 @@ movies = pd.read_csv('Project/IMDbMovies-Clean.csv')
 # print(movies.columns)    # Number of Columns of Original Data = 15
 df = pd.DataFrame(data=movies, columns=['Title', 'Director', 'Main Genres', 'Motion Picture Rating', 'Rating (Out of 10)', 'Release Year']).dropna()
 
-## Movie Recommendations
+    # Finding Movie Recommendations
 print('\nMovie Recommendations')
 print('---------------------')
 genre = input('Search by Genre(s): ')
@@ -71,7 +71,7 @@ year = float(input('Release Year: '))
 movie_recommendations = df[(df['Rating (Out of 10)'] >= rating) & (df['Release Year'] == year)]     # Filtering data by Rating and Release Year
 # print(movie_recommendations)      # Cross checking that csv file is updating
 if len(movie_recommendations) == 0: 
-    print('No Movies Found that Match Search Criteria')
+    print('No Movies Match Search Criteria')
 else:
     movie_recommendations.to_csv('Project/filtered-movies.csv')
     list = []
@@ -81,4 +81,4 @@ else:
             if row['Main Genres'].__contains__(genre):     # str
                 list.append(row)
         for item in list:
-            print(f'\n {list.index(item) + 1}) {item['Title']} by Director(s) {item['Director']}')
+            print(f'\n {list.index(item) + 1}) {item['Title']} by Director(s) {item['Director']} -- Rated {item['Motion Picture Rating']}')

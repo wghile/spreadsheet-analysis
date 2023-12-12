@@ -1,10 +1,131 @@
 ,Title,Director,Main Genres,Motion Picture Rating,Rating (Out of 10),Release Year
-883,Portrait of a Lady on Fire,Céline Sciamma,"Drama,Romance",R,8.1,2019.0
-1262,Joker,Todd Phillips,"Crime,Drama,Thriller",R,8.4,2019.0
-1272,Avengers: Endgame,"Anthony Russo,Joe Russo","Action,Adventure,Drama",PG-13,8.4,2019.0
-1283,Parasite,Bong Joon Ho,"Drama,Thriller",R,8.5,2019.0
-3437,1917,Sam Mendes,"Action,Drama,War",R,8.2,2019.0
-3467,Klaus,"Sergio Pablos,Carlos Martínez López","Animation,Adventure,Comedy",PG,8.2,2019.0
-3860,Kaithi,Lokesh Kanagaraj,"Action,Crime,Thriller",Not Rated,8.5,2019.0
-4032,Ford v Ferrari,James Mangold,"Action,Biography,Drama",PG-13,8.1,2019.0
-5586,Miracle in Cell No. 7,Mehmet Ada Öztekin,Drama,TV-14,8.2,2019.0
+113,Vicky Cristina Barcelona,Woody Allen,"Comedy,Drama,Romance",PG-13,7.1,2008.0
+119,WALL·E,Andrew Stanton,"Animation,Adventure,Family",G,8.4,2008.0
+172,Slumdog Millionaire,"Loveleen Tandan,Danny Boyle","Crime,Drama,Romance",R,8.0,2008.0
+210,Martyrs,Pascal Laugier,Horror,R,7.0,2008.0
+241,Taken,Pierre Morel,"Action,Crime,Thriller",PG-13,7.8,2008.0
+273,Australia,Baz Luhrmann,"Adventure,Drama,Romance",PG-13,6.6,2008.0
+314,Gran Torino,Clint Eastwood,Drama,R,8.1,2008.0
+510,In Bruges,Martin McDonagh,"Comedy,Crime,Drama",R,7.9,2008.0
+711,The Dark Knight,Christopher Nolan,"Action,Crime,Drama",PG-13,9.0,2008.0
+779,The Incredible Hulk,Louis Leterrier,"Action,Adventure,Sci-Fi",PG-13,6.6,2008.0
+809,Quantum of Solace,Marc Forster,"Action,Adventure,Mystery",PG-13,6.6,2008.0
+835,The Boy in the Striped Pajamas,Mark Herman,"Drama,War",PG-13,7.7,2008.0
+879,Body of Lies,Ridley Scott,"Action,Drama,Thriller",R,7.0,2008.0
+890,The Reader,Stephen Daldry,"Drama,Mystery,Romance",R,7.6,2008.0
+897,Forgetting Sarah Marshall,Nicholas Stoller,"Comedy,Drama,Romance",R,7.1,2008.0
+1055,Inkheart,Iain Softley,"Adventure,Family,Fantasy",PG,6.1,2008.0
+1081,Revolutionary Road,Sam Mendes,"Drama,Romance",R,7.3,2008.0
+1082,The Spiderwick Chronicles,Mark Waters,"Action,Adventure,Drama",PG,6.5,2008.0
+1201,Wanted,Timur Bekmambetov,"Action,Crime,Thriller",R,6.7,2008.0
+1294,The Hurt Locker,Kathryn Bigelow,"Drama,Thriller,War",R,7.5,2008.0
+1309,Role Models,David Wain,Comedy,R,6.8,2008.0
+1393,The Strangers,Bryan Bertino,"Horror,Mystery,Thriller",R,6.1,2008.0
+1445,Sex Drive,Sean Anders,"Comedy,Romance",R,6.5,2008.0
+1466,Get Smart,Peter Segal,"Action,Adventure,Comedy",PG-13,6.5,2008.0
+1480,Eden Lake,James Watkins,"Horror,Thriller",R,6.7,2008.0
+1559,21,Robert Luketic,"Crime,Drama,Thriller",PG-13,6.8,2008.0
+1560,Rambo,Sylvester Stallone,"Action,Adventure,Thriller",R,7.0,2008.0
+1567,Pineapple Express,David Gordon Green,"Action,Comedy,Crime",R,6.9,2008.0
+1584,Burn After Reading,"Joel Coen,Ethan Coen","Comedy,Crime,Drama",R,7.0,2008.0
+1585,Indiana Jones and the Kingdom of the Crystal Skull,Steven Spielberg,"Action,Adventure",PG-13,6.2,2008.0
+1587,Cloverfield,Matt Reeves,"Adventure,Horror,Sci-Fi",PG-13,7.0,2008.0
+1588,The Chronicles of Narnia: Prince Caspian,Andrew Adamson,"Action,Adventure,Family",PG,6.5,2008.0
+1679,"Definitely, Maybe",Adam Brooks,"Comedy,Drama,Romance",PG-13,7.1,2008.0
+1703,Valkyrie,Bryan Singer,"Drama,History,Thriller",PG-13,7.1,2008.0
+1732,27 Dresses,Anne Fletcher,"Comedy,Romance",PG-13,6.1,2008.0
+1864,Ponyo,Hayao Miyazaki,"Animation,Adventure,Comedy",G,7.6,2008.0
+1954,The Other Boleyn Girl,Justin Chadwick,"Biography,Drama,History",PG-13,6.7,2008.0
+1979,Bronson,Nicolas Winding Refn,"Action,Crime,Drama",R,7.0,2008.0
+2010,Easy Virtue,Stephan Elliott,"Comedy,Romance",PG-13,6.6,2008.0
+2041,Let the Right One In,Tomas Alfredson,"Drama,Fantasy,Horror",R,7.8,2008.0
+2043,Bolt,"Byron Howard,Chris Williams","Animation,Adventure,Comedy",PG,6.8,2008.0
+2154,Zack and Miri Make a Porno,Kevin Smith,"Comedy,Romance",R,6.5,2008.0
+2222,Defiance,Edward Zwick,"Action,Drama,History",R,7.1,2008.0
+2321,Mirrors,Alexandre Aja,"Horror,Mystery",R,6.1,2008.0
+2482,Jumper,Doug Liman,"Action,Adventure,Sci-Fi",PG-13,6.1,2008.0
+2527,The Bank Job,Roger Donaldson,"Crime,Drama,Thriller",R,7.2,2008.0
+2569,RocknRolla,Guy Ritchie,"Action,Crime,Thriller",R,7.2,2008.0
+2641,Horton Hears a Who!,"Jimmy Hayward,Steve Martino","Animation,Adventure,Comedy",G,6.8,2008.0
+2674,Appaloosa,Ed Harris,"Action,Crime,Drama",R,6.7,2008.0
+2728,Hunger,Steve McQueen,"Biography,Crime,Drama",Not Rated,7.5,2008.0
+2785,The Duchess,Saul Dibb,"Biography,Drama,History",PG-13,6.9,2008.0
+2798,The Wrestler,Darren Aronofsky,"Drama,Sport",R,7.9,2008.0
+2825,Never Back Down,Jeff Wadlow,"Action,Drama,Sport",PG-13,6.5,2008.0
+2862,Ghost Town,David Koepp,"Comedy,Drama,Fantasy",PG-13,6.7,2008.0
+3122,Ip Man,Wilson Yip,"Action,Biography,Drama",R,8.0,2008.0
+3128,Speed Racer,"Lilly Wachowski,Lana Wachowski","Action,Adventure,Comedy",PG,6.1,2008.0
+3215,Hancock,Peter Berg,"Action,Comedy,Drama",PG-13,6.4,2008.0
+3330,"Synecdoche, New York",Charlie Kaufman,Drama,R,7.5,2008.0
+3365,Eagle Eye,D.J. Caruso,"Action,Mystery,Thriller",PG-13,6.6,2008.0
+3374,Yes Man,Peyton Reed,"Comedy,Romance",PG-13,6.8,2008.0
+3496,Changeling,Clint Eastwood,"Biography,Crime,Drama",R,7.8,2008.0
+3563,Bedtime Stories,Adam Shankman,"Adventure,Comedy,Family",PG,6.0,2008.0
+3637,Madagascar: Escape 2 Africa,"Tom McGrath,Eric Darnell","Animation,Adventure,Comedy",PG,6.6,2008.0
+3688,Wild Child,Nick Moore,Comedy,PG-13,6.1,2008.0
+3734,Transporter 3,Olivier Megaton,"Action,Adventure,Thriller",PG-13,6.1,2008.0
+3784,Nick and Norah's Infinite Playlist,Peter Sollett,"Comedy,Drama,Music",PG-13,6.6,2008.0
+3812,Marley & Me,David Frankel,"Drama,Family",PG,7.0,2008.0
+3927,Nothing Like the Holidays,Alfredo Rodriguez de Villa,"Comedy,Drama,Romance",PG-13,6.1,2008.0
+3941,Seven Pounds,Gabriele Muccino,"Drama,Mystery,Thriller",PG-13,7.6,2008.0
+4108,Repo! The Genetic Opera,Darren Lynn Bousman,"Horror,Musical,Sci-Fi",R,6.4,2008.0
+4131,"Angus, Thongs and Perfect Snogging",Gurinder Chadha,"Comedy,Drama,Romance",PG-13,6.3,2008.0
+4379,The Forbidden Kingdom,Rob Minkoff,"Action,Adventure,Fantasy",PG-13,6.5,2008.0
+4393,Death Race,Paul W.S. Anderson,"Action,Sci-Fi,Thriller",R,6.4,2008.0
+4413,Hellboy II: The Golden Army,Guillermo del Toro,"Action,Adventure,Fantasy",PG-13,7.0,2008.0
+4417,The Midnight Meat Train,Ryûhei Kitamura,"Horror,Mystery,Thriller",R,6.0,2008.0
+4552,The Chaser,Na Hong-jin,"Action,Crime,Drama",Not Rated,7.8,2008.0
+4585,Lake Mungo,Joel Anderson,"Drama,Horror,Mystery",R,6.3,2008.0
+4601,City of Ember,Gil Kenan,"Adventure,Drama,Family",PG,6.4,2008.0
+4621,Sky Kids,Rocco DeVilliers,"Action,Adventure,Drama",PG-13,6.8,2008.0
+4680,Doubt,John Patrick Shanley,"Drama,Mystery",PG-13,7.5,2008.0
+4747,Pontypool,Bruce McDonald,"Horror,Sci-Fi",Not Rated,6.5,2008.0
+4831,Street Kings,David Ayer,"Action,Crime,Thriller",R,6.8,2008.0
+4864,Red Cliff,John Woo,"Action,Adventure,Drama",R,7.3,2008.0
+5050,Tropic Thunder,Ben Stiller,"Action,Comedy,War",R,7.1,2008.0
+5133,Milk,Gus Van Sant,"Biography,Drama,History",R,7.5,2008.0
+5136,Step Up 2: The Streets,Jon M. Chu,"Drama,Music,Romance",PG-13,6.2,2008.0
+5228,Outlander,Howard McCain,"Action,Adventure,Sci-Fi",R,6.2,2008.0
+5288,Harold & Kumar Escape from Guantanamo Bay,"Jon Hurwitz,Hayden Schlossberg","Adventure,Comedy",R,6.5,2008.0
+5319,Bottle Shock,Randall Miller,"Comedy,Drama",PG-13,6.8,2008.0
+5506,The Lazarus Project,John Glenn,"Drama,Mystery,Thriller",PG-13,6.0,2008.0
+5584,The Wave,Dennis Gansel,"Drama,Thriller",Not Rated,7.6,2008.0
+5686,Two Lovers,James Gray,"Drama,Romance",R,7.0,2008.0
+5711,Dear Zachary: A Letter to a Son About His Father,Kurt Kuenne,"Documentary,Biography,Crime",Not Rated,8.5,2008.0
+5928,What Happens in Vegas,Tom Vaughan,"Comedy,Romance",PG-13,6.1,2008.0
+6108,Sunshine Cleaning,Christine Jeffs,"Comedy,Drama",R,6.8,2008.0
+6219,Kit Kittredge: An American Girl,Patricia Rozema,"Comedy,Drama,Family",G,6.5,2008.0
+6272,Brideshead Revisited,Julian Jarrold,"Drama,Romance",PG-13,6.6,2008.0
+6355,Felon,Ric Roman Waugh,"Crime,Thriller",R,7.4,2008.0
+6443,Be Kind Rewind,Michel Gondry,Comedy,PG-13,6.4,2008.0
+6510,Pride and Glory,Gavin O'Connor,"Crime,Drama,Thriller",R,6.6,2008.0
+6649,How to Lose Friends & Alienate People,Robert B. Weide,"Biography,Comedy,Drama",R,6.4,2008.0
+6760,Miss Pettigrew Lives for a Day,Bharat Nalluri,"Comedy,Romance",PG-13,7.0,2008.0
+6896,The Beautiful Person,Christophe Honoré,"Comedy,Drama",Unrated,6.6,2008.0
+6938,Rachel Getting Married,Jonathan Demme,"Drama,Romance",R,6.7,2008.0
+7089,Righteous Kill,Jon Avnet,"Crime,Mystery,Thriller",R,6.0,2008.0
+7219,W.,Oliver Stone,"Biography,Comedy,Drama",PG-13,6.3,2008.0
+7236,Mamma Mia!,Phyllida Lloyd,"Comedy,Musical,Romance",PG-13,6.5,2008.0
+7256,The Curious Case of Benjamin Button,David Fincher,"Drama,Fantasy,Romance",PG-13,7.8,2008.0
+7327,The Burning Plain,Guillermo Arriaga,"Crime,Drama,Mystery",R,6.7,2008.0
+7449,Splinter,Toby Wilkins,"Crime,Horror,Sci-Fi",R,6.1,2008.0
+7572,I Can't Think Straight,Shamim Sarif,"Drama,Romance",PG-13,6.5,2008.0
+7806,Step Brothers,Adam McKay,Comedy,R,6.9,2008.0
+7844,The Edge of Love,John Maybury,"Biography,Drama,Romance",R,6.1,2008.0
+7900,Blindness,Fernando Meirelles,"Drama,Mystery,Thriller",R,6.5,2008.0
+7936,Fireproof,Alex Kendrick,"Drama,Romance",PG,6.4,2008.0
+8088,The Rocker,Peter Cattaneo,"Comedy,Music",PG-13,6.2,2008.0
+8168,Waltz with Bashir,Ari Folman,"Documentary,Animation,Biography",R,8.0,2008.0
+8171,Love Exposure,Sion Sono,"Action,Comedy,Drama",Unrated,8.0,2008.0
+8213,Red,"Trygve Allister Diesen,Lucky McKee","Drama,Thriller",R,6.9,2008.0
+8222,The Poker House,Lori Petty,Drama,R,6.3,2008.0
+8325,Frost/Nixon,Ron Howard,"Biography,Drama,History",R,7.7,2008.0
+8348,Kung Fu Panda,"John Stevenson,Mark Osborne","Animation,Action,Adventure",PG,7.6,2008.0
+8436,The Secret Life of Bees,Gina Prince-Bythewood,Drama,PG-13,7.2,2008.0
+8464,Nim's Island,"Jennifer Flackett,Mark Levin","Adventure,Family,Fantasy",PG,6.0,2008.0
+8635,Vantage Point,Pete Travis,"Action,Crime,Drama",PG-13,6.6,2008.0
+8691,Untraceable,Gregory Hoblit,"Crime,Mystery,Thriller",R,6.2,2008.0
+8922,Gomorrah,Matteo Garrone,"Crime,Drama",Not Rated,7.0,2008.0
+8951,The Baader Meinhof Complex,Uli Edel,"Action,Biography,Crime",R,7.3,2008.0
+9016,Choke,Clark Gregg,"Comedy,Drama",R,6.4,2008.0
+9042,Traitor,Jeffrey Nachmanoff,"Action,Crime,Drama",PG-13,6.9,2008.0
