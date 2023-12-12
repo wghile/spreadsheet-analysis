@@ -24,6 +24,7 @@ for i in range(0, len(months)):     # Creating list of dictionaries for each mon
     months_dict.append(dict(month = months[i]))   # Challenge: syntax
     months_dict[i]['total_sales'] = 0       # Challenge: using == instead of =
     months_dict[i]['total_expenditure'] = 0
+print(f'\n{months_dict}')
 print('\nSummary of Total Sales per Month in 2018')
 print('----------------------------------------')
 with open('Project/sales.csv', 'r') as csv_file:    # Displays list of each month's total sales
@@ -65,7 +66,8 @@ df = pd.DataFrame(data=movies, columns=['Title', 'Director', 'Main Genres', 'Mot
     # Finding Movie Recommendations
 print('\nMovie Recommendations')
 print('---------------------')
-genre = input('Search by Genre(s): ')
+genre = input('Search by Genre(s) - limit 3: ')
+genres = genre.split(',')
 rating = float(input('Minimum IMDb rating out of 10: '))
 year = float(input('Release Year: '))
 movie_recommendations = df[(df['Rating (Out of 10)'] >= rating) & (df['Release Year'] == year)]     # Filtering data by Rating and Release Year
@@ -77,8 +79,20 @@ else:
     list = []
     with open('Project/filtered-movies.csv', 'r') as csv_file:
         spreadsheet = csv.DictReader(csv_file, fieldnames=['Index', 'Title', 'Director', 'Main Genres', 'Motion Picture Rating', 'Rating (Out of 10)', 'Release Year'])
-        for row in spreadsheet:
-            if row['Main Genres'].__contains__(genre):     # str
-                list.append(row)
-        for item in list:
-            print(f'\n {list.index(item) + 1}) {item['Title']} by Director(s) {item['Director']} -- Rated {item['Motion Picture Rating']}')
+        if len(genres) == 3:
+            for row in spreadsheet:
+                if row['Main Genres'].__contains__(genres[0]) and row['Main Genres'].__contains__(genres[1]) and row['Main Genres'].__contains__(genres[2]):     # str
+                    list.append(row)
+        elif len(genres) == 2:
+            for row in spreadsheet:
+                if row['Main Genres'].__contains__(genres[0]) and row['Main Genres'].__contains__(genres[1]):
+                    list.append(row)
+        elif len(genres) == 1:
+            for row in spreadsheet:
+                if row['Main Genres'].__contains__(genres[0]):
+                    list.append(row)
+        if len(list) == 0:
+            print('No Movies Match Search Criteria')
+        else:
+            for item in list:
+                print(f'\n {list.index(item) + 1}) {item['Title']} by Director(s) {item['Director']} -- Rated {item['Motion Picture Rating']}')
