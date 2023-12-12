@@ -57,38 +57,28 @@ with open('Project/sales.csv', 'r') as csv_file:    # Displays list of each mont
 # Different Data Source (IMDb Movies)
 import pandas as pd     #  import pandas Python Data Analysis Library
 
-print('\n\n\nIMDb Movies')
+print('\n\nIMDb Movies')
 movies = pd.read_csv('Project/IMDbMovies-Clean.csv')
 # print(movies.columns)    # Number of Columns of Original Data = 15
 df = pd.DataFrame(data=movies, columns=['Title', 'Director', 'Main Genres', 'Motion Picture Rating', 'Rating (Out of 10)', 'Release Year']).dropna()
 
-    # Testing different methods on data
-# print(movies)   # displays first and last 5 rows
-# print(movies.head(2))   # displays first 2 rows
-#print(movies.tail(2))   # displays last 2 rows
-# print(movies.columns)   # columns of data
-# print(movies['Title'].shape)    # number of rows
-
 ## Movie Recommendations
 print('\nMovie Recommendations')
 print('---------------------')
-# headers = movies.columns
-# print(len(movies))
-# print(headers)
-# print(movies['Main Genres'].info)
-genre = input('Search by Genre: ')
+genre = input('Search by Genre(s): ')
 rating = float(input('Minimum IMDb rating out of 10: '))
 year = float(input('Release Year: '))
-movie_recommendations = df[(df['Rating (Out of 10)'] >= rating) & (df['Release Year'] == year)]
-# print(movie_recommendations['Main Genres'])
-# print(movie_recommendations['Main Genres'][1805])
-# print(movie_recommendations['Main Genres'][1805].__contains__('Drama'))
-# print(movie_recommendations['Main Genres'][435].__contains__('Drama'))
-# print(movie_recommendations['Main Genres'][2435].__contains__('Drama'))
-# print(type(movie_recommendations))
-# 435*, 2435, 5597, 8109, 8581
-
-# for row in movie_recommendations:
-    # print(row)
-    # if row['Main Genres'].__contains__('Drama'):
-    #     print(row)
+movie_recommendations = df[(df['Rating (Out of 10)'] >= rating) & (df['Release Year'] == year)]     # Filtering data by Rating and Release Year
+# print(movie_recommendations)      # Cross checking that csv file is updating
+if len(movie_recommendations) == 0: 
+    print('No Movies Found that Match Search Criteria')
+else:
+    movie_recommendations.to_csv('Project/recommendations.csv')
+    list = []
+    with open('Project/recommendations.csv', 'r') as csv_file:
+        spreadsheet = csv.DictReader(csv_file, fieldnames=['Index', 'Title', 'Director', 'Main Genres', 'Motion Picture Rating', 'Rating (Out of 10)', 'Release Year'])
+        for row in spreadsheet:
+            if row['Main Genres'].__contains__(genre):
+                list.append(row)
+        for item in list:
+            print(f'\n {list.index(item) + 1}) {item['Title']} by Director(s) {item['Director']}')
