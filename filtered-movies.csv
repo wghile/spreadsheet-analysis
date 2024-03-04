@@ -1,79 +1,206 @@
 ,Title,Director,Main Genres,Motion Picture Rating,Rating (Out of 10),Release Year
-112,Logan,James Mangold,"Action,Drama,Sci-Fi",R,8.1,2017.0
-122,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,"Comedy,Crime,Drama",R,8.1,2017.0
-150,The Upside,Neil Burger,"Comedy,Drama",PG-13,7.0,2017.0
-160,Guardians of the Galaxy Vol. 2,James Gunn,"Action,Adventure,Comedy",PG-13,7.6,2017.0
-226,Wonder Woman,Patty Jenkins,"Action,Adventure,Fantasy",PG-13,7.4,2017.0
-326,The Shape of Water,Guillermo del Toro,"Drama,Fantasy,Romance",R,7.3,2017.0
-555,Wonder,Stephen Chbosky,"Drama,Family",PG,7.9,2017.0
-586,Gifted,Marc Webb,Drama,PG-13,7.6,2017.0
-658,Hostiles,Scott Cooper,"Drama,Western",R,7.2,2017.0
-713,Blade Runner 2049,Denis Villeneuve,"Action,Drama,Mystery",R,8.0,2017.0
-800,Phantom Thread,Paul Thomas Anderson,"Drama,History,Romance",R,7.4,2017.0
-848,"I, Tonya",Craig Gillespie,"Biography,Comedy,Drama",R,7.5,2017.0
-849,The Post,Steven Spielberg,"Biography,Drama,History",PG-13,7.2,2017.0
-905,Darkest Hour,Joe Wright,"Biography,Drama,War",PG-13,7.4,2017.0
-1052,Paddington 2,Paul King,"Adventure,Comedy,Family",PG,7.8,2017.0
-1200,Logan Lucky,Steven Soderbergh,"Action,Comedy,Crime",PG-13,7.0,2017.0
-1448,The Lego Batman Movie,Chris McKay,"Animation,Action,Adventure",PG,7.3,2017.0
-1596,Molly's Game,Aaron Sorkin,"Biography,Crime,Drama",R,7.4,2017.0
-1780,The Death of Stalin,Armando Iannucci,"Comedy,Drama,History",R,7.2,2017.0
-1847,Shot Caller,Ric Roman Waugh,"Crime,Drama,Thriller",R,7.3,2017.0
-1946,The Florida Project,Sean Baker,Drama,R,7.6,2017.0
-2069,The Disaster Artist,James Franco,"Biography,Comedy,Drama",R,7.3,2017.0
-2113,The Foreigner,Martin Campbell,"Action,Thriller",R,7.0,2017.0
-2251,The Man Who Invented Christmas,Bharat Nalluri,"Biography,Comedy,Drama",PG,7.0,2017.0
-2360,War for the Planet of the Apes,Matt Reeves,"Action,Adventure,Drama",PG-13,7.4,2017.0
-2371,It,Andy Muschietti,Horror,R,7.3,2017.0
-2461,A Dog's Purpose,Lasse Hallström,"Adventure,Comedy,Drama",PG,7.2,2017.0
-2486,Only the Brave,Joseph Kosinski,"Action,Biography,Drama",PG-13,7.6,2017.0
-2506,The Square,Ruben Östlund,"Comedy,Drama",R,7.1,2017.0
-2784,Okja,Bong Joon Ho,"Action,Adventure,Drama",TV-MA,7.3,2017.0
-2801,Papillon,Michael Noer,"Adventure,Biography,Crime",R,7.2,2017.0
-2834,Forgotten,Hang-jun Jang,"Crime,Mystery,Thriller",TV-MA,7.4,2017.0
-2915,Wind River,Taylor Sheridan,"Crime,Drama,Mystery",R,7.7,2017.0
-2925,Get Out,Jordan Peele,"Horror,Mystery,Thriller",R,7.8,2017.0
-2945,The Glass Castle,Destin Daniel Cretton,"Biography,Drama",PG-13,7.1,2017.0
-3081,Brawl in Cell Block 99,S. Craig Zahler,"Action,Crime,Drama",Not Rated,7.1,2017.0
-3480,The Killing of a Sacred Deer,Yorgos Lanthimos,"Drama,Horror,Mystery",R,7.0,2017.0
-3612,T2 Trainspotting,Danny Boyle,"Comedy,Crime,Drama",R,7.2,2017.0
-3618,Along With the Gods: The Two Worlds,Yong-hwa Kim,"Action,Adventure,Drama",Not Rated,7.2,2017.0
-4058,The Big Sick,Michael Showalter,"Comedy,Drama,Romance",R,7.5,2017.0
-4535,The Greatest Showman,Michael Gracey,"Biography,Drama,Musical",PG,7.5,2017.0
-4602,Mudbound,Dee Rees,"Drama,War",R,7.4,2017.0
-4611,God's Own Country,Francis Lee,"Drama,Romance",Not Rated,7.6,2017.0
-4693,First Reformed,Paul Schrader,"Drama,Mystery,Thriller",R,7.1,2017.0
-4815,The Outlaws,Yunsung Kang,"Action,Crime,Thriller",Not Rated,7.2,2017.0
-5063,American Made,Doug Liman,"Action,Comedy,Crime",R,7.1,2017.0
-5070,Good Time,"Benny Safdie,Josh Safdie","Crime,Drama,Thriller",R,7.3,2017.0
-5085,Beauty and the Beast,Bill Condon,"Adventure,Family,Fantasy",PG,7.1,2017.0
-5221,Loving Vincent,"DK Welchman,Hugh Welchman","Animation,Drama,Mystery",PG-13,7.8,2017.0
-5487,Professor Marston & the Wonder Women,Angela Robinson,"Biography,Drama,History",R,7.0,2017.0
-5580,A Taxi Driver,Hun Jang,"Action,Drama,History",Not Rated,7.9,2017.0
-5598,Call Me by Your Name,Luca Guadagnino,"Drama,Romance",R,7.8,2017.0
-5653,Columbus,Kogonada,Drama,Not Rated,7.2,2017.0
-6032,Arjun Reddy,Sandeep Reddy Vanga,"Action,Drama,Romance",Not Rated,8.0,2017.0
-6107,The Zookeeper's Wife,Niki Caro,"Biography,Drama,History",PG-13,7.0,2017.0
-6137,Coco,"Adrian Molina,Adrian Molina(co-directed by),Lee Unkrich","Animation,Adventure,Drama",PG,8.4,2017.0
-6422,Detroit,Kathryn Bigelow,"Crime,Drama,History",R,7.3,2017.0
-6431,The 12th Man,Harald Zwart,"Drama,History,Thriller",Unrated,7.3,2017.0
-6453,Thelma,Joachim Trier,"Drama,Fantasy,Horror",Not Rated,7.0,2017.0
-6708,Dunkirk,Christopher Nolan,"Action,Drama,History",PG-13,7.8,2017.0
-6714,Spider-Man: Homecoming,Jon Watts,"Action,Adventure,Sci-Fi",PG-13,7.4,2017.0
-6728,Baby Driver,Edgar Wright,"Action,Crime,Drama",R,7.6,2017.0
-6905,Mommy Dead and Dearest,Erin Lee Carr,"Documentary,Crime",TV-MA,7.4,2017.0
-7175,The Wife,Björn Runge,Drama,R,7.2,2017.0
-7191,Megan Leavey,Gabriela Cowperthwaite,"Action,Biography,Drama",PG-13,7.1,2017.0
-7245,Thor: Ragnarok,Taika Waititi,"Action,Adventure,Comedy",PG-13,7.9,2017.0
-7426,One Cut of the Dead,Shin'ichirô Ueda,"Comedy,Drama,Horror",Not Rated,7.6,2017.0
-7485,Goodbye Christopher Robin,Simon Curtis,"Biography,Drama,Family",PG,7.1,2017.0
-7741,The Battleship Island,Seung-wan Ryu,"Action,Drama,History",Not Rated,7.1,2017.0
-7796,Lady Bird,Greta Gerwig,"Comedy,Drama",R,7.4,2017.0
-7803,John Wick: Chapter 2,Chad Stahelski,"Action,Crime,Thriller",R,7.4,2017.0
-8000,Marshall,Reginald Hudlin,"Biography,Crime,Drama",PG-13,7.3,2017.0
-8272,See You Up There,Albert Dupontel,"Comedy,Crime,Drama",TV-MA,7.4,2017.0
-8306,Loveless,Andrey Zvyagintsev,Drama,R,7.6,2017.0
-8390,Breathe,Andy Serkis,"Biography,Drama,Romance",PG-13,7.1,2017.0
-8401,First They Killed My Father,Angelina Jolie,"Biography,Drama,History",TV-MA,7.2,2017.0
-8688,Lucky,John Carroll Lynch,"Comedy,Drama",Not Rated,7.3,2017.0
-9059,Baahubali 2: The Conclusion,S.S. Rajamouli,"Action,Drama",Not Rated,8.2,2017.0
+220,The Father,Florian Zeller,"Drama,Mystery",PG-13,8.2,2020.0
+227,You Should Have Left,David Koepp,"Horror,Thriller",R,5.4,2020.0
+240,Nomadland,Chloé Zhao,Drama,R,7.3,2020.0
+246,Pieces of a Woman,Kornél Mundruczó,Drama,R,7.0,2020.0
+299,Birds of Prey,Cathy Yan,"Action,Comedy,Crime",R,6.1,2020.0
+394,Soul,"Pete Docter,Kemp Powers","Animation,Adventure,Comedy",PG,8.0,2020.0
+401,Wonder Woman 1984,Patty Jenkins,"Action,Adventure,Fantasy",PG-13,5.4,2020.0
+463,Greyhound,Aaron Schneider,"Action,Drama,History",PG-13,7.0,2020.0
+493,The Christmas Chronicles: Part Two,Chris Columbus,"Adventure,Comedy,Family",PG,6.0,2020.0
+520,The Devil All the Time,Antonio Campos,"Crime,Drama,Thriller",R,7.1,2020.0
+544,Run Hide Fight,Kyle Rankin,"Action,Crime,Drama",TV-MA,6.3,2020.0
+576,Emma.,Autumn de Wilde,"Comedy,Drama,Romance",PG,6.7,2020.0
+580,Enola Holmes,Harry Bradbeer,"Action,Adventure,Crime",PG-13,6.6,2020.0
+598,Extraction,Sam Hargrave,"Action,Thriller",R,6.8,2020.0
+612,The Courier,Dominic Cooke,"Drama,History,Mystery",PG-13,7.2,2020.0
+628,Unhinged,Derrick Borte,"Action,Thriller",R,6.0,2020.0
+644,Monster Hunter,Paul W.S. Anderson,"Action,Adventure,Fantasy",PG-13,5.2,2020.0
+652,I'm Thinking of Ending Things,Charlie Kaufman,"Drama,Thriller",R,6.6,2020.0
+744,The Hunt,Craig Zobel,"Action,Horror,Thriller",R,6.5,2020.0
+750,Another Round,Thomas Vinterberg,Drama,Not Rated,7.7,2020.0
+776,After We Collided,Roger Kumble,"Drama,Romance",R,5.0,2020.0
+839,Sonic the Hedgehog,Jeff Fowler,"Action,Adventure,Comedy",PG,6.5,2020.0
+858,The Old Guard,Gina Prince-Bythewood,"Action,Thriller",R,6.7,2020.0
+870,Happiest Season,Clea DuVall,"Comedy,Romance",PG-13,6.6,2020.0
+926,A Quiet Place Part II,John Krasinski,"Drama,Horror,Sci-Fi",PG-13,7.2,2020.0
+928,Run,Aneesh Chaganty,"Mystery,Thriller",PG-13,6.7,2020.0
+1089,Mulan,Niki Caro,"Action,Adventure,Drama",PG-13,5.8,2020.0
+1382,The Witches,Robert Zemeckis,"Adventure,Comedy,Family",PG,5.4,2020.0
+1404,The Empty Man,David Prior,"Drama,Horror,Mystery",R,6.2,2020.0
+1457,I Care a Lot,J Blakeson,"Comedy,Crime,Drama",R,6.4,2020.0
+1463,Minari,Lee Isaac Chung,Drama,PG-13,7.4,2020.0
+1486,Palm Springs,Max Barbakow,"Comedy,Fantasy,Mystery",R,7.4,2020.0
+1490,The World to Come,Mona Fastvold,"Drama,History,Western",R,6.4,2020.0
+1494,Ava,Tate Taylor,"Action,Drama,Thriller",R,5.4,2020.0
+1501,Freaky,Christopher Landon,"Comedy,Horror,Thriller",R,6.3,2020.0
+1550,Greenland,Ric Roman Waugh,"Action,Thriller",PG-13,6.4,2020.0
+1554,Shiva Baby,Emma Seligman,"Comedy,Drama",Not Rated,7.1,2020.0
+1605,The Forgotten Battle,Matthijs van Heijningen Jr.,"Drama,War",TV-MA,7.1,2020.0
+1637,The Trial of the Chicago 7,Aaron Sorkin,"Drama,History,Thriller",R,7.7,2020.0
+1708,Ammonite,Francis Lee,"Biography,Drama,History",R,6.5,2020.0
+1836,Promising Young Woman,Emerald Fennell,"Crime,Drama,Mystery",R,7.5,2020.0
+1899,Eurovision Song Contest: The Story of Fire Saga,David Dobkin,"Comedy,Music",PG-13,6.5,2020.0
+1911,Love and Monsters,Michael Matthews,"Action,Adventure,Comedy",PG-13,6.9,2020.0
+1950,Underwater,William Eubank,"Action,Horror,Sci-Fi",PG-13,5.9,2020.0
+1976,Fatman,"Eshom Nelms,Ian Nelms","Action,Adventure,Comedy",R,5.9,2020.0
+2015,Becky,"Jonathan Milott,Cary Murnion","Action,Crime,Drama",R,6.0,2020.0
+2048,Alone,John Hyams,"Drama,Horror,Mystery",R,6.2,2020.0
+2086,The Nest,Sean Durkin,"Drama,Romance,Thriller",R,6.3,2020.0
+2136,Jingle Jangle: A Christmas Journey,David E. Talbert,"Family,Fantasy,Musical",PG,6.5,2020.0
+2143,Think Like a Dog,Gil Junger,"Comedy,Drama,Family",PG,5.2,2020.0
+2221,The Call of the Wild,Chris Sanders,"Adventure,Drama,Family",PG,6.7,2020.0
+2281,Borat Subsequent Moviefilm,Jason Woliner,Comedy,R,6.6,2020.0
+2337,Tenet,Christopher Nolan,"Action,Sci-Fi,Thriller",PG-13,7.3,2020.0
+2410,Bad Boys for Life,"Adil El Arbi,Bilall Fallah","Action,Comedy,Crime",R,6.5,2020.0
+2433,The New Mutants,Josh Boone,"Action,Horror,Mystery",PG-13,5.3,2020.0
+2434,Onward,Dan Scanlon,"Animation,Action,Adventure",PG,7.4,2020.0
+2487,The Call,Chung-Hyun Lee,"Crime,Horror,Mystery",TV-MA,7.1,2020.0
+2498,The Babysitter: Killer Queen,McG,"Comedy,Horror",TV-MA,5.8,2020.0
+2545,The Night House,David Bruckner,"Horror,Mystery,Thriller",R,6.5,2020.0
+2566,Possessor,Brandon Cronenberg,"Horror,Mystery,Sci-Fi",R,6.5,2020.0
+2677,A California Christmas,Shaun Paul Piccinino,"Comedy,Drama,Romance",PG-13,5.8,2020.0
+2690,Spenser Confidential,Peter Berg,"Action,Comedy,Crime",R,6.2,2020.0
+2700,Rebecca,Ben Wheatley,"Drama,Mystery,Romance",PG-13,6.0,2020.0
+2719,The Midnight Sky,George Clooney,"Adventure,Drama,Sci-Fi",PG-13,5.7,2020.0
+2730,The King of Staten Island,Judd Apatow,"Comedy,Drama",R,7.1,2020.0
+2796,Let Him Go,Thomas Bezucha,"Crime,Drama,Thriller",R,6.7,2020.0
+2864,Host,Rob Savage,"Horror,Mystery",Not Rated,6.5,2020.0
+2882,News of the World,Paul Greengrass,"Action,Adventure,Drama",PG-13,6.8,2020.0
+2895,Trolls World Tour,"Walt Dohrn,David P. Smith","Animation,Adventure,Comedy",PG,6.1,2020.0
+2917,A Nice Girl Like You,"Nick Riedell,Chris Riedell","Comedy,Romance",R,5.1,2020.0
+2952,Boss Level,Joe Carnahan,"Action,Adventure,Comedy",TV-MA,6.8,2020.0
+3046,Simple Passion,Danielle Arbid,"Drama,Romance",Unrated,5.5,2020.0
+3067,The Banker,George Nolfi,"Biography,Drama",PG-13,7.3,2020.0
+3079,Project Power,"Ariel Schulman,Henry Joost","Action,Crime,Sci-Fi",R,6.0,2020.0
+3150,The Wrong Missy,Tyler Spindel,"Comedy,Romance",TV-MA,5.7,2020.0
+3187,All the Bright Places,Brett Haley,"Drama,Romance",TV-MA,6.6,2020.0
+3196,The Silencing,Robin Pront,"Action,Crime,Mystery",R,6.2,2020.0
+3244,Honest Thief,Mark Williams,"Action,Thriller",PG-13,6.0,2020.0
+3261,The Paramedic,Carles Torras,"Crime,Drama,Thriller",TV-MA,5.7,2020.0
+3262,Hubie Halloween,Steven Brill,"Comedy,Horror,Mystery",PG-13,5.2,2020.0
+3325,Dolittle,Stephen Gaghan,"Adventure,Comedy,Family",PG,5.6,2020.0
+3328,Bloodshot,Dave Wilson,"Action,Adventure,Sci-Fi",PG-13,5.7,2020.0
+3386,Unpregnant,Rachel Lee Goldenberg,"Comedy,Drama",PG-13,6.5,2020.0
+3391,Finding You,Brian Baugh,"Drama,Romance",PG,6.4,2020.0
+3492,Lucy Shimmers and the Prince of Peace,Rob Diamond,"Drama,Family",TV-G,7.1,2020.0
+3517,The Croods: A New Age,Joel Crawford,"Animation,Adventure,Comedy",PG,6.9,2020.0
+3552,The Dark and the Wicked,Bryan Bertino,Horror,Not Rated,6.1,2020.0
+3639,The Secret: Dare to Dream,Andy Tennant,"Drama,Romance",PG,6.5,2020.0
+3689,Safety,Reginald Hudlin,"Biography,Drama,Sport",PG,6.8,2020.0
+3887,Peninsula,Sang-ho Yeon,"Action,Horror,Thriller",Not Rated,5.5,2020.0
+3904,Godmothered,Sharon Maguire,"Comedy,Drama,Family",PG,6.1,2020.0
+3982,The Social Dilemma,Jeff Orlowski-Yang,"Documentary,Drama",PG-13,7.6,2020.0
+4049,Words on Bathroom Walls,Thor Freudenthal,"Drama,Romance",PG-13,7.2,2020.0
+4051,The Princess Switch: Switched Again,Mike Rohl,"Comedy,Drama,Family",TV-G,5.4,2020.0
+4070,Bill & Ted Face the Music,Dean Parisot,"Adventure,Comedy,Music",PG-13,5.9,2020.0
+4175,Charm City Kings,Angel Manuel Soto,Drama,R,6.6,2020.0
+4186,Escape from Pretoria,Francis Annan,"Biography,Crime,Mystery",PG-13,6.8,2020.0
+4287,Inheritance,Vaughn Stein,"Drama,Mystery,Thriller",TV-MA,5.6,2020.0
+4302,Follow Me,Will Wernick,"Adventure,Horror,Mystery",R,5.4,2020.0
+4358,Scoob!,Tony Cervone,"Animation,Adventure,Comedy",PG,5.6,2020.0
+4419,Operation Christmas Drop,Martin Wood,"Comedy,Family,Romance",TV-PG,5.8,2020.0
+4574,Hillbilly Elegy,Ron Howard,Drama,R,6.7,2020.0
+4613,The Night Clerk,Michael Cristofer,"Crime,Drama,Mystery",R,5.6,2020.0
+4616,An American Pickle,Brandon Trost,"Comedy,Fantasy",PG-13,5.7,2020.0
+4628,The War with Grandpa,Tim Hill,"Comedy,Drama,Family",PG,5.6,2020.0
+4636,Archive,Gavin Rothery,"Drama,Mystery,Sci-Fi",TV-MA,6.4,2020.0
+4723,The Dry,Robert Connolly,"Crime,Drama,Mystery",R,6.8,2020.0
+4763,Sputnik,Egor Abramenko,"Drama,Horror,Mystery",Not Rated,6.4,2020.0
+4805,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,Haruo Sotozaki,"Animation,Action,Adventure",TV-14,8.2,2020.0
+4966,Nocturne,Zu Quirke,"Drama,Horror,Music",Not Rated,5.7,2020.0
+4971,On the Rocks,Sofia Coppola,"Comedy,Drama,Romance",R,6.4,2020.0
+5047,Riders of Justice,Anders Thomas Jensen,"Action,Comedy,Drama",Not Rated,7.5,2020.0
+5115,His House,Remi Weekes,"Drama,Horror,Thriller",TV-14,6.5,2020.0
+5134,Wolfwalkers,"Ross Stewart,Tomm Moore","Animation,Action,Adventure",PG,8.0,2020.0
+5212,My Octopus Teacher,"James Reed,Pippa Ehrlich",Documentary,TV-G,8.1,2020.0
+5234,The Half of It,Alice Wu,"Comedy,Drama",PG-13,6.9,2020.0
+5334,Four Good Days,Rodrigo García,Drama,R,6.5,2020.0
+5352,Nine Days,Edson Oda,"Drama,Fantasy",R,6.8,2020.0
+5385,2 Hearts,Lance Hool,"Drama,Romance",PG-13,6.3,2020.0
+5443,The Rental,Dave Franco,"Drama,Horror,Mystery",R,5.7,2020.0
+5447,The Prom,Ryan Murphy,"Comedy,Drama,Musical",PG-13,5.9,2020.0
+5473,Horse Girl,Jeff Baena,"Drama,Mystery,Thriller",R,6.0,2020.0
+5544,The Claus Family,Matthias Temmermans,"Comedy,Family,Fantasy",TV-PG,5.6,2020.0
+5561,Gretel & Hansel,Oz Perkins,"Fantasy,Horror,Mystery",PG-13,5.5,2020.0
+5677,Legacy of Lies,Adrian Bol,"Action,Thriller",R,5.1,2020.0
+5680,Shirley,Josephine Decker,"Biography,Drama,Horror",R,6.1,2020.0
+5735,Then Came You,Adriana Trigiani,"Comedy,Romance",PG-13,6.0,2020.0
+5753,Superintelligence,Ben Falcone,"Action,Comedy,Romance",PG,5.4,2020.0
+5774,The Way Back,Gavin O'Connor,"Drama,Sport",R,6.7,2020.0
+5802,Life in a Year,Mitja Okorn,"Drama,Romance",PG-13,6.2,2020.0
+5815,Lost Girls,Liz Garbus,"Crime,Drama,Mystery",R,6.2,2020.0
+5882,The Unhealer,Martin Guigui,"Fantasy,Horror,Sci-Fi",Not Rated,5.6,2020.0
+5883,Resistance,Jonathan Jakubowicz,"Biography,Drama,History",R,6.5,2020.0
+5892,Wild Mountain Thyme,John Patrick Shanley,"Comedy,Drama,Romance",PG-13,5.7,2020.0
+6000,The Wolf of Snow Hollow,Jim Cummings,"Comedy,Horror,Mystery",R,6.2,2020.0
+6057,Shadow in the Cloud,Roseanne Liang,"Action,Horror,War",R,5.0,2020.0
+6097,I Still Believe,"Andrew Erwin,Jon Erwin","Biography,Drama,Music",PG,6.5,2020.0
+6187,Worth,Sara Colangelo,"Biography,Drama,History",PG-13,6.8,2020.0
+6204,The Boys in the Band,Joe Mantello,Drama,R,6.8,2020.0
+6394,Da 5 Bloods,Spike Lee,"Adventure,Drama,War",R,6.5,2020.0
+6429,The Duke,Roger Michell,"Biography,Comedy,Crime",R,6.9,2020.0
+6464,My Spy,Peter Segal,"Action,Comedy",PG-13,6.3,2020.0
+6484,Tesla,Michael Almereyda,"Biography,Drama",PG-13,5.1,2020.0
+6572,Irresistible,Jon Stewart,"Comedy,Drama",R,6.3,2020.0
+6585,Minamata,Andrew Levitas,Drama,R,7.2,2020.0
+6622,Joe Bell,Reinaldo Marcus Green,"Biography,Drama",R,6.2,2020.0
+6637,Ma Rainey's Black Bottom,George C. Wolfe,"Drama,Music",R,6.9,2020.0
+6687,Mank,David Fincher,"Biography,Comedy,Drama",R,6.8,2020.0
+6696,Holidate,John Whitesell,"Comedy,Romance",TV-MA,6.1,2020.0
+6735,Hamilton,Thomas Kail,"Biography,Drama,History",PG-13,8.3,2020.0
+6855,Bloody Hell,Alister Grierson,"Action,Comedy,Horror",R,6.6,2020.0
+7003,The SpongeBob Movie: Sponge on the Run,Tim Hill,"Animation,Adventure,Comedy",PG,5.9,2020.0
+7033,Black Bear,Lawrence Michael Levine,"Comedy,Drama",R,6.5,2020.0
+7035,Antebellum,"Christopher Renz,Gerard Bush","Drama,Horror,Mystery",R,5.8,2020.0
+7036,Misbehaviour,Philippa Lowthorpe,"Comedy,Drama,History",Not Rated,6.3,2020.0
+7056,Black Beauty,Ashley Avis,"Drama,Family",TV-PG,6.4,2020.0
+7059,Monsters of Man,Mark Toia,"Action,Sci-Fi,Thriller",Not Rated,5.4,2020.0
+7063,Christmas on the Square,Debbie Allen,"Comedy,Family,Musical",TV-PG,5.2,2020.0
+7116,Relic,Natalie Erika James,"Drama,Horror,Mystery",R,6.0,2020.0
+7138,Sunrise in Heaven,Waymon Boone,"Drama,Romance",TV-G,5.7,2020.0
+7392,Spree,Eugene Kotlyarenko,"Comedy,Crime,Horror",Not Rated,5.9,2020.0
+7399,Miss Americana,Lana Wilson,"Documentary,Biography,Drama",TV-MA,7.4,2020.0
+7407,Zola,Janicza Bravo,"Comedy,Crime,Drama",R,6.5,2020.0
+7442,The Very Excellent Mr. Dundee,Dean Murphy,Comedy,PG-13,5.0,2020.0
+7528,Dream Horse,Euros Lyn,"Biography,Comedy,Drama",PG,6.9,2020.0
+7537,Don't Listen,Ángel Gómez Hernández,"Adventure,Drama,Horror",TV-MA,6.1,2020.0
+7643,Let Them All Talk,Steven Soderbergh,"Comedy,Drama",R,6.1,2020.0
+7646,Fatale,Deon Taylor,Thriller,R,5.4,2020.0
+7668,The Sleepover,Trish Sie,"Action,Adventure,Comedy",TV-PG,5.7,2020.0
+7670,The Secret Garden,Marc Munden,"Drama,Family,Fantasy",PG,5.6,2020.0
+7736,Ghosts of War,Eric Bress,"Fantasy,Horror,Thriller",R,5.6,2020.0
+7751,Uncle Frank,Alan Ball,"Comedy,Drama",R,7.3,2020.0
+7770,Anything for Jackson,Justin G. Dyck,"Horror,Mystery",Not Rated,6.3,2020.0
+7788,The Invisible Man,Leigh Whannell,"Drama,Horror,Mystery",R,7.1,2020.0
+7837,The Postcard Killings,Danis Tanovic,"Crime,Drama,Mystery",Not Rated,5.7,2020.0
+7859,Supernova,Harry Macqueen,"Drama,Romance",R,6.9,2020.0
+7882,Made in Italy,James D'Arcy,"Comedy,Drama,Romance",R,5.9,2020.0
+7886,The High Note,Nisha Ganatra,"Drama,Music,Romance",PG-13,6.4,2020.0
+7887,One Night in Miami...,Regina King,Drama,R,7.1,2020.0
+7943,Night in Paradise,Park Hoon-jung,"Action,Crime,Drama",TV-MA,6.8,2020.0
+7988,Come True,Anthony Scott Burns,"Horror,Sci-Fi",Unrated,6.0,2020.0
+7993,Love Wedding Repeat,Dean Craig,"Comedy,Romance",TV-MA,5.6,2020.0
+8004,Feel the Beat,Elissa Down,"Comedy,Drama,Family",TV-G,6.3,2020.0
+8071,The Comeback Trail,George Gallo,"Comedy,Crime",R,5.7,2020.0
+8083,"Quo Vadis, Aida?",Jasmila Zbanic,"Drama,History,War",Approved,8.0,2020.0
+8201,Come Play,Jacob Chase,"Drama,Horror,Mystery",PG-13,5.7,2020.0
+8282,Chemical Hearts,Richard Tanne,"Drama,Romance",R,6.3,2020.0
+8330,Books of Blood,Brannon Braga,"Drama,Horror,Mystery",TV-MA,5.6,2020.0
+8407,Valley Girl,Rachel Lee Goldenberg,"Comedy,Musical,Romance",PG-13,5.5,2020.0
+8420,Summer of 85,François Ozon,"Drama,Romance",Not Rated,6.9,2020.0
+8429,Clouds,Justin Baldoni,"Biography,Drama,Music",PG-13,7.5,2020.0
+8516,Silver Skates,Michael Lockshin,"Adventure,Drama,Family",TV-MA,7.1,2020.0
+8601,Spontaneous,Brian Duffield,"Comedy,Drama,Horror",R,6.5,2020.0
+8609,Desperados,LP,"Comedy,Romance",TV-MA,5.2,2020.0
+8629,The Secrets We Keep,Yuval Adler,"Drama,Thriller",R,5.9,2020.0
+8633,Sergio,Greg Barker,"Biography,Drama,History",R,6.2,2020.0
+8647,The One and Only Ivan,Thea Sharrock,"Adventure,Comedy,Drama",PG,6.6,2020.0
+8706,Work It,Laura Terruso,"Comedy,Music",TV-14,6.2,2020.0
+8744,Six Minutes to Midnight,Andy Goddard,"Drama,Thriller,War",PG-13,5.9,2020.0
+8802,The Rhythm Section,Reed Morano,"Action,Drama,Mystery",R,5.4,2020.0
+8920,Rose Island,Sydney Sibilia,"Adventure,Biography,Comedy",TV-14,7.0,2020.0
+8962,Midnight at the Magnolia,Max McGuire,"Comedy,Romance",TV-G,5.8,2020.0
+8998,The Willoughbys,"Kris Pearn,Rob Lodermeier,Cory Evans","Animation,Adventure,Comedy",PG,6.4,2020.0
+9028,Kajillionaire,Miranda July,"Comedy,Crime,Drama",R,6.4,2020.0
+9078,Over the Moon,"John Kahrs,Glen Keane","Animation,Adventure,Comedy",PG,6.3,2020.0

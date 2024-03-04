@@ -12,10 +12,10 @@ print('\nList of All Sales')
 print('-----------------')
 with open('Project/sales.csv', 'r') as csv_file:
     spreadsheet = csv.DictReader(csv_file)
-    list = []
+    lst1 = []
     for row in spreadsheet:
-        list.append(row)
-    print(list)
+        lst1.append(row)
+    print(lst1)
 
     # 3. Output the total sales across all months
 months = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec']
@@ -24,7 +24,7 @@ for i in range(0, len(months)):     # Creating list of dictionaries for each mon
     months_dict.append(dict(month = months[i]))   # Challenge: syntax
     months_dict[i]['total_sales'] = 0       # Challenge: using == instead of =
     months_dict[i]['total_expenditure'] = 0
-print(f'\n{months_dict}')
+# print(f'\n{months_dict}')
 print('\nSummary of Total Sales per Month in 2018')
 print('----------------------------------------')
 with open('Project/sales.csv', 'r') as csv_file:    # Displays list of each month's total sales
@@ -76,23 +76,23 @@ if len(movie_recommendations) == 0:
     print('No Movies Match Search Criteria')
 else:
     movie_recommendations.to_csv('Project/filtered-movies.csv')
-    list = []
+    lst2 = []
     with open('Project/filtered-movies.csv', 'r') as csv_file:
         spreadsheet = csv.DictReader(csv_file, fieldnames=['Index', 'Title', 'Director', 'Main Genres', 'Motion Picture Rating', 'Rating (Out of 10)', 'Release Year'])
         if len(genres) == 3:
             for row in spreadsheet:
                 if row['Main Genres'].__contains__(genres[0]) and row['Main Genres'].__contains__(genres[1]) and row['Main Genres'].__contains__(genres[2]):     # str
-                    list.append(row)
+                    lst2.append(row)
         elif len(genres) == 2:
             for row in spreadsheet:
                 if row['Main Genres'].__contains__(genres[0]) and row['Main Genres'].__contains__(genres[1]):
-                    list.append(row)
+                    lst2.append(row)
         elif len(genres) == 1:
             for row in spreadsheet:
                 if row['Main Genres'].__contains__(genres[0]):
-                    list.append(row)
-        if len(list) == 0:
+                    lst2.append(row)
+        if len(lst2) == 0:
             print('No Movies Match Search Criteria')
         else:
-            for item in list:
-                print(f'\n {list.index(item) + 1}) {item['Title']} by Director(s) {item['Director']} -- Rated {item['Motion Picture Rating']}')
+            for item in lst2:
+                print(f'\n {lst2.index(item) + 1}) {item['Title']} by Director(s) {item['Director']} -- Rated {item['Motion Picture Rating']}')
